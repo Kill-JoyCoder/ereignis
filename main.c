@@ -6,6 +6,8 @@ int in, out, avail = 10000;
 int PIN[100] = {1200, 3189, 1234, 4709};
 // can use struct for ease 
 
+
+
 int loadingpage();
 void withdrawal();
 void transfer();
